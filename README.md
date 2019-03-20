@@ -14,3 +14,10 @@ git add .
 git commit -m ""
 
 
+git branch .....
+
+git checkout .....
+
+git log
+
+
